@@ -1,1 +1,2 @@
-# LMS_site
+# AdminLMS
+Dashboard for University LMS
